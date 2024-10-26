@@ -14,6 +14,7 @@ void draw_box(){
 }
 
 int row,col ;
+int sample ;
 
 void ask_user(){
     cout<<"Enter the box number you want to mark! "<<endl ;
